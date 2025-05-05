@@ -12,7 +12,7 @@ Do pola wyboru kraju dodaj możliwość przeszukania pola z wyświetleniem podpo
 
 ### Zmień małe selecty na wybór radio
 
-Zmień małe selecty (do 5 - 6 elementów) na wybór radio. Możesz dodać ikony wyboru dla inputu radio, aby przyspieszyć wypełnienie formularza.
+Zmień małe selecty (do 5 - 6 elementów) na wybór radio. Możesz dodać ikony wyboru dla inputu radio(opisane w "pozostałe techniki"), aby przyspieszyć wypełnienie formularza.
 
 ### Zgrupuj powiązane pola
 
@@ -24,4 +24,4 @@ Dodaj obsługę wysłania formularza przez klawiaturę (po naciśnięciu enter),
 
 ### Pozostałe techniki
 
-Pomyśl i spróbuj znaleźć pozostałe techniki, które uproszczą, zmniejszą czas wypełnienia i zmniejszą ilość kliknięć użytkownika. Dodaj ikony. Dodaj walidację formularza, jeśli pola ma złożone wymagania co do zawartości dodaj informację w jakim formacie należy podać dane. Zwiększ dostępność formularza dla osób z niepełnosprawnościami.
+Pomyśl i spróbuj znaleźć pozostałe techniki, które uproszczą, zmniejszą czas wypełnienia i zmniejszą ilość kliknięć użytkownika. Dodaj ikony ikone oka i funkcjonalność do pokazania i ukrycia hasła(domyślne), ikony dla rodzaju przesyłki obok nazw DPD i InPost, ikony dla rodzjów płatności dla karty karta przed dla blika ikona blika a dla pośrednika płatności ikona Przelewy24. Dodaj walidację formularza, jeśli pola ma złożone wymagania co do zawartości dodaj informację w jakim formacie należy podać dane. Zwiększ dostępność formularza dla osób z niepełnosprawnościami.
